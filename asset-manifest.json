@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/appointment-app/static/css/main.9f56b3aa.css",
+    "main.js": "/appointment-app/static/js/main.0b60d865.js",
+    "index.html": "/appointment-app/index.html",
+    "main.9f56b3aa.css.map": "/appointment-app/static/css/main.9f56b3aa.css.map",
+    "main.0b60d865.js.map": "/appointment-app/static/js/main.0b60d865.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f56b3aa.css",
+    "static/js/main.0b60d865.js"
+  ]
+}
